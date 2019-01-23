@@ -1,5 +1,5 @@
 # XamAnd-TipCalculator
-My first Xamarin Android Application
+## My "Hello World" Xamarin Android Application
 
 Prefix Codes:
 
